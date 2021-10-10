@@ -28,19 +28,19 @@
 * All contracts signed and verified by blockchain
 * Signed by mandate
 
-### Coooperative Enterprise
+### Cooperative Enterprise
 
 https://www.bol.com/nl/nl/f/maverick/30287753/
 
 * Goodwill gained by accomplishment
-
-####
 
 ### System enforced limits to profit
 
 * Full transparency of transactions
 
 ### Time as a measure of contribution
+
+In 
 
 ### Participative Governance
 
