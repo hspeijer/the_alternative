@@ -59,18 +59,7 @@ In principle an hour spent by any member of a community has the same value as a 
 
 ## Unanswered questions
 
-### How to deal with crime?
-
-* Forms of punishment
-  * Banishment
-  * Time without compensation of recognition
-  * Public shaming (loss of reputation)
-
-Most if not all of the communities within the network will be under the authority of nation states and be bound by local laws.
-
-* Education of children
-* Care for the elderly
-* Care for the sick
+###
 
 ## Research
 
