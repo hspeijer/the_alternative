@@ -72,10 +72,6 @@ Most if not all of the communities within the network will be under the authorit
 * Care for the elderly
 * Care for the sick
 
-## To do
-
-* put stuff into some sort of git based form https://www.gitbook.com/about
-
 ## Research
 
 * Principles of governance
