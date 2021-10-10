@@ -62,16 +62,4 @@ In principle an hour spent by any member of a community has the same value as a 
 * Global Village Construction set
 * Maslow's hierarchy of needs https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 
-## Essays
-
-* Not everbody is equal
-
-People have different talents, different motivations, different skills, different education. Any system that cannot accept this is not based in reality and will fail. The question is, what is fair?
-
-* Whats the alternative?
-
-We cannot change the world in any reasonable amount of time. The established power structures are too powerfull to compete. What is possible is to come up with an alternative that tries to solve problems embedded in the core of current society and power structures.
-
-* Pieces of the puzzle
-
-There is many solutions out there, many people working on worthwhile projects. The key is to find the pieces and put them together into a tapestry of solutions.
+##
