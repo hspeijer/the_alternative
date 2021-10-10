@@ -40,7 +40,7 @@ https://www.bol.com/nl/nl/f/maverick/30287753/
 
 ### Time as a measure of contribution
 
-In principle an hour spent by any member of a community has the same value as a percentage of the hours 
+In principle an hour spent by any member of a community has the same value as a percentage of the hours a person has to spend during his or her lifetime. Each person can contribute to their own capability and capacity.
 
 ### Participative Governance
 
