@@ -9,12 +9,10 @@
 
 ## Solutions as I see them
 
-
-
 ### Shared ownership of real estate and other assets
 
 * Land
-* Buildings (Communcal Space)
+* Buildings (Communal Space)
 * Equipment
 
 ### Network organisation
@@ -22,8 +20,6 @@
 * Cell based (replication)
 * Core DNA encoded in principles and ledger as backbone infrastructure of network
 * International network of places for living and working
-
-
 
 #### How the network interacts with the outside economy
 
