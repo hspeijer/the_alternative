@@ -40,7 +40,7 @@ https://www.bol.com/nl/nl/f/maverick/30287753/
 
 ### Time as a measure of contribution
 
-In 
+In principle an hour spent by any member of a community has the same value as a percentage of the hours 
 
 ### Participative Governance
 
