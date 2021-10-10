@@ -61,14 +61,7 @@ In principle an hour spent by any member of a community has the same value as a 
 
 ###
 
-## Research
-
-* Principles of governance
-* Blockchain based smart contracts https://www.avax.network/
-* Economy
-* Suply chain
-* Value creation
-* Valve Employee handbook
+##
 
 ## Reference
 
