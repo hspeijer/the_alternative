@@ -17,16 +17,19 @@
 * Buildings (Communcal Space)
 * Equipment
 
+### Network organisation
+
+* Cell based (replication)
+* Core DNA encoded in principles and ledger as backbone infrastructure of network
+* International network of places for living and working
+
+
+
 #### How the network interacts with the outside economy
 
 * All external world capital is backed by assets such as real estate
 * Capital can be raised to buy new assets and shares are issued
 * Shares can be sold
-
-### Smart contracts
-
-* All contracts signed and verified by blockchain
-* Signed by mandate
 
 ### Cooperative Enterprise
 
@@ -44,13 +47,12 @@ In principle an hour spent by any member of a community has the same value as a 
 
 ### Participative Governance
 
-* Tranparency and availability of data
+* Transparency and availability of data
 
-### Network organisation
+### Smart contracts
 
-* Cell based (replication)
-* Core DNA encoded in principles and ledger as backbone infrastructure of network
-* International network of places for living and working
+* All contracts signed and verified by blockchain
+* Signed by mandate
 
 ## Core principles
 
