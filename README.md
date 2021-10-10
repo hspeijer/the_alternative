@@ -9,16 +9,7 @@
 
 ## Solutions as I see them
 
-### Smart contracts
 
-* All contracts signed and verified by blockchain
-* Signed by mandate
-
-### Coooperative Enterprise
-
-https://www.bol.com/nl/nl/f/maverick/30287753/
-
-* Goodwill gained by accomplishment
 
 ### Shared ownership of real estate and other assets
 
@@ -31,6 +22,19 @@ https://www.bol.com/nl/nl/f/maverick/30287753/
 * All external world capital is backed by assets such as real estate
 * Capital can be raised to buy new assets and shares are issued
 * Shares can be sold
+
+### Smart contracts
+
+* All contracts signed and verified by blockchain
+* Signed by mandate
+
+### Coooperative Enterprise
+
+https://www.bol.com/nl/nl/f/maverick/30287753/
+
+* Goodwill gained by accomplishment
+
+####
 
 ### System enforced limits to profit
 
