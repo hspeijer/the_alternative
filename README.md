@@ -2,10 +2,11 @@
 
 ## Problems as I see them
 
-* Exploitation of people for personal gain
+* Exploitation of people and resources for personal gain
 * Wasteful living
 * Money as only metric
 * Stressful living
+* Authoritarian regimes
 
 ## Solutions as I see them
 
@@ -47,8 +48,8 @@ In principle an hour spent by any member of a community has the same value as a 
 
 ### Smart contracts
 
-* All contracts signed and verified by blockchain
-* Signed by mandate
+* All contracts signed and verified by block chain
+* Signed by mandate of
 
 ## Core principles
 
