@@ -1,4 +1,11 @@
-# A manifesto for a better tommorow
+---
+description: >-
+  A collection of thoughts and visions for an alternative way of living that
+  sidesteps a lot of the issues embedded into the current power structures and
+  systems currently dominant on the planet.
+---
+
+# Manifesto for a better tomorrow
 
 ## Problems as I see them
 
@@ -53,7 +60,7 @@ In principle an hour spent by any member of a community has the same value as a 
 
 ### Open Source 
 
-The network will use and contribute to open source knowledge and technology. We are opposed to intellectual property and seek to share what we learn.
+The network will use and contribute to open source knowledge and technology. We seek to share what we learn and accomplish.
 
 ## Core principles
 

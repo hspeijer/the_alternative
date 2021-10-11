@@ -1,3 +1,7 @@
 # Table of contents
 
-* [A manifesto for a better tommorow](README.md)
+* [Manifesto for a better tomorrow](README.md)
+* [Unanswered Questions](unanswered-questions.md)
+* [Research](research.md)
+* [Essays](essays.md)
+* [Reference](reference.md)
