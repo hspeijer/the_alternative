@@ -51,6 +51,10 @@ In principle an hour spent by any member of a community has the same value as a 
 * All contracts signed and verified by block chain
 * Signed by mandate of the people 
 
+Open Source Engineering
+
+
+
 ## Core principles
 
 * We are not motivated by materialism
