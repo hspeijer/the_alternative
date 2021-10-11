@@ -26,7 +26,7 @@
 
 * All external world capital is backed by assets such as real estate
 * Capital can be raised to buy new assets and shares are issued
-* Shares can be sold
+* Shares can be sold limited by maximum profit 
 
 ### Cooperative Enterprise
 
@@ -49,7 +49,7 @@ In principle an hour spent by any member of a community has the same value as a 
 ### Smart contracts
 
 * All contracts signed and verified by block chain
-* Signed by mandate of
+* Signed by mandate of the people 
 
 ## Core principles
 
