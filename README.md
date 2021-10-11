@@ -53,7 +53,7 @@ In principle an hour spent by any member of a community has the same value as a 
 
 Open Source Engineering
 
-
+The network will use and contribute to open source knowledge and technology. We are opposed to intellecti
 
 ## Core principles
 
