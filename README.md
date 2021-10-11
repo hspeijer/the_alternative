@@ -51,9 +51,9 @@ In principle an hour spent by any member of a community has the same value as a 
 * All contracts signed and verified by block chain
 * Signed by mandate of the people 
 
-Open Source Engineering
+### Open Source 
 
-The network will use and contribute to open source knowledge and technology. We are opposed to intellecti
+The network will use and contribute to open source knowledge and technology. We are opposed to intellectual property and seek to share what we learn.
 
 ## Core principles
 
