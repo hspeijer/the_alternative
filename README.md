@@ -57,6 +57,3 @@ In principle an hour spent by any member of a community has the same value as a 
 * There is no single truth or doctrine. We try to provide a basic framework and a set of tools. Every cell or member of the network has full autonomy.
 * Our activities should be sustainable and at least carbon neutral
 
-##
-
-##
